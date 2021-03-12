@@ -1,0 +1,19 @@
+{
+  "name": "pruebafirebase",
+  "version": "1.0.0",
+  "description": "package de prueba para nuevositio",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install pruebafirebase"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PipeNaranjo/PruebaFireBase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PipeNaranjo/PruebaFireBase/issues"
+  },
+  "homepage": "https://github.com/PipeNaranjo/PruebaFireBase#readme"
+}
